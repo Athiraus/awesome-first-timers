@@ -1,4 +1,4 @@
-This pull request is for the issue no. #issue no 
+This pull request is for the issue no. #issu no 
 
 I make sure that before opening this pull request I have starred this repo 
 
